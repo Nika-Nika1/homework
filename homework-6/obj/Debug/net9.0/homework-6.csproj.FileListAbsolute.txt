@@ -1,0 +1,15 @@
+C:\Users\nikol\RiderProjects\homework\homework-6\bin\Debug\net9.0\homework-6.exe
+C:\Users\nikol\RiderProjects\homework\homework-6\bin\Debug\net9.0\homework-6.deps.json
+C:\Users\nikol\RiderProjects\homework\homework-6\bin\Debug\net9.0\homework-6.runtimeconfig.json
+C:\Users\nikol\RiderProjects\homework\homework-6\bin\Debug\net9.0\homework-6.dll
+C:\Users\nikol\RiderProjects\homework\homework-6\bin\Debug\net9.0\homework-6.pdb
+C:\Users\nikol\RiderProjects\homework\homework-6\obj\Debug\net9.0\homework-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\RiderProjects\homework\homework-6\obj\Debug\net9.0\homework-6.AssemblyInfoInputs.cache
+C:\Users\nikol\RiderProjects\homework\homework-6\obj\Debug\net9.0\homework-6.AssemblyInfo.cs
+C:\Users\nikol\RiderProjects\homework\homework-6\obj\Debug\net9.0\homework-6.csproj.CoreCompileInputs.cache
+C:\Users\nikol\RiderProjects\homework\homework-6\obj\Debug\net9.0\homework-6.sourcelink.json
+C:\Users\nikol\RiderProjects\homework\homework-6\obj\Debug\net9.0\homework-6.dll
+C:\Users\nikol\RiderProjects\homework\homework-6\obj\Debug\net9.0\refint\homework-6.dll
+C:\Users\nikol\RiderProjects\homework\homework-6\obj\Debug\net9.0\homework-6.pdb
+C:\Users\nikol\RiderProjects\homework\homework-6\obj\Debug\net9.0\homework-6.genruntimeconfig.cache
+C:\Users\nikol\RiderProjects\homework\homework-6\obj\Debug\net9.0\ref\homework-6.dll
